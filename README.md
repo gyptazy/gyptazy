@@ -1,16 +1,19 @@
-### Hi there 👋
+# gyptazy
+<img align="left" width="80" height="80" src="https://gyptazy.ch/wp-content/uploads/2022/03/4150400.png"> <b>Hello!</b><br>
+I'm gyptazy (pronounced ɡʏpˈ​​t​eɪzi​ː​) - an enthusiastic and passionated <br>DevOp and coder from Germany, Düsseldorf. I love contributing to <br>open source projects.<br><br>
 
-<!--
-**gyptazy/gyptazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Overview:**
+```Python
+import info from gyptazy
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+gyptazy = {
+    'Nick': 'gyptazy',
+    'Name': 'Florian',
+    'GPG': '0x69BF7050',
+    'Blog': 'https://gyptazy.ch',
+    'Languages': ['German', 'English', 'Russian', 'Arabic'],
+    'TechLanguages': ['Python', 'Go', 'Swift'],
+    'FavTech': ['Ansible', 'Terraform', 'Terragrunt'],
+    'FavOS': ['FreeBSD', 'macOS']
+}
+```
