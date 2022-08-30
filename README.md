@@ -9,6 +9,7 @@ import info from gyptazy
 gyptazy = {
     'Nick': 'gyptazy',
     'Name': 'Florian',
+    'Email': 'gyptazy[at]gyptazy.ch',
     'GPG': '0x69BF7050',
     'Blog': 'https://gyptazy.ch',
     'Languages': ['German', 'English', 'Russian', 'Arabic'],
