@@ -9,11 +9,12 @@ import gyptazy from info
 gyptazy = {
     'nick':           'gyptazy',
     'name':           'Florian',
-    'email':          'gyptazy[at]gyptazy.ch',
+    'email':          'contact[at]gyptazy.ch',
     'gpg':            '0x69BF7050',
     'blog':           'https://gyptazy.ch',
     'twitter':        'gyptazy',
     'mastodon':       'gyptazy@bsd.cafe',
+    'matrix':         '@gyptazy:bsd.cafe',
     'languages':      ['German', 'English', 'Russian', 'Arabic'],
     'tech_languages': ['Python', 'Go', 'Swift', 'Rust'],
     'fav_tech':       ['Ansible', 'Terraform', 'Terragrunt'],
