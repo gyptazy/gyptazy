@@ -10,14 +10,14 @@ gyptazy = {
     'nick':           'gyptazy',
     'name':           'Florian',
     'email':          'contact[at]gyptazy.com',
-    'gpg':            '0x69BF7050',
+    'gpg':            '0xB1B88CBB',
     'blog':           'https://gyptazy.com',
     'twitter':        'gyptazy',
     'mastodon':       '@gyptazy@gyptazy.com',
     'matrix':         '@gyptazy:gyptazy.com',
     'languages':      ['German', 'English', 'Russian', 'Arabic'],
     'tech_languages': ['Python', 'Go', 'Swift', 'Rust'],
-    'fav_tech':       ['Ansible', 'Terraform', 'Terragrunt'],
+    'fav_tech':       ['Ansible', 'Terraform', 'Proxmox', 'BGP'],
     'fav_os':         ['FreeBSD', 'macOS']
 }
 ```
